@@ -1,4 +1,5 @@
 function displayPoem(response) {
+    console.log("Displaying generated poem");
   
 //Display the generated poem
 
